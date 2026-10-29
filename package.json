@@ -48,5 +48,8 @@
     "web": "expo start --web",
     "lint": "expo lint"
   },
-  "private": true
+  "private": true,
+  "optionalDependencies": {
+    "lightningcss-linux-x64-gnu": "^1.33.0"
+  }
 }
